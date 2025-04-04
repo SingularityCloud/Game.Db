@@ -5,4 +5,4 @@ Inspire.:, Data Source:
 Home: https://www.protondb.com/
 
 page:
-- https://www.protondb.com/app/1091500
+- [Game Details for Cyberpunk 2077](https://www.protondb.com/app/1091500)
